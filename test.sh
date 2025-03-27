@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "HOGE"
+echo "KRUGLE INC"
