@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "KRUGLE INC"
+echo "ARAGON CONSULTING"
